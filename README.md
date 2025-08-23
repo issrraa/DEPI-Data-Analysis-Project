@@ -1,4 +1,4 @@
-# Project Name: Central Superstore Sales Analysis
+# Central Superstore Sales Analysis
 
 ## Project Idea
 This project aims to analyze sales, profit, and customer behavior using the Central Superstore dataset. The dataset contains information about orders, customers, products, shipping, and profitability. By analyzing these aspects, we can identify trends, measure performance, and uncover insights that support data-driven decision-making.  
