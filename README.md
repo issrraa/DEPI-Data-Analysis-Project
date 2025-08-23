@@ -1,16 +1,17 @@
-# Central Superstore Sales Analysis
+# Beyond Screens & Routines: A Holistic Data Analysis of Mental Health
 
 ## Project Idea
-This project aims to analyze sales, profit, and customer behavior using the Central Superstore dataset. The dataset contains information about orders, customers, products, shipping, and profitability. By analyzing these aspects, we can identify trends, measure performance, and uncover insights that support data-driven decision-making.  
+The project aims to create a platform that helps individuals monitor and improve their mental health.  
+It allows users to track their daily mood, practice mindfulness exercises, and receive personalized tips.  
+The main goal is to raise awareness about the importance of mental health and encourage people to take better care of themselves.  
 
 ## Project Objectives
-- Analyze overall sales and profit performance.  
-- Identify the most profitable and least profitable product categories and sub-categories.  
-- Evaluate the impact of discounts on sales and profit.  
-- Study customer segments (Consumer, Corporate, Home Office) to understand purchasing behavior.  
-- Monitor sales trends over time to detect seasonality or growth opportunities.  
-- Provide insights for improving sales strategies and maximizing profitability.  
+- Enable users to track their mental and emotional well-being regularly.  
+- Provide simple tips and exercises to improve mental health.  
+- Raise awareness about the importance of mental well-being alongside physical health.  
+- Offer a user-friendly interface that motivates users to stay consistent.
 
+  
 ## Team Members
 - Radwa Abbas Haridy Kenawy 
 - Shoroq Muhammed Ibrahim Elsayed
