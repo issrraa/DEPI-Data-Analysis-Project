@@ -1,15 +1,33 @@
-# Beyond Screens & Routines: A Holistic Data Analysis of Mental Health
+# Hospital Management Analysis 
 
-## Project Idea
-The project aims to create a platform that helps individuals monitor and improve their mental health.  
-It allows users to track their daily mood, practice mindfulness exercises, and receive personalized tips.  
-The main goal is to raise awareness about the importance of mental health and encourage people to take better care of themselves.  
+## 📌 Project Idea
 
-## Project Objectives
-- Enable users to track their mental and emotional well-being regularly.  
-- Provide simple tips and exercises to improve mental health.  
-- Raise awareness about the importance of mental well-being alongside physical health.  
-- Offer a user-friendly interface that motivates users to stay consistent.
+Build an interactive hospital management dashboard using Excel (or Power BI / Tableau later).
+
+Dashboard provides quick insights into:
+
+Patients demographics & visits.
+
+Encounters & diagnoses trends.
+
+Financial performance (claims, billing, payments).
+
+Procedures & lab tests distribution.
+
+Providers performance.
+
+Designed for decision makers (hospital managers, finance team, medical directors).
+
+## 🎯 Objectives
+1- Data Consolidation: Collect & clean hospital data (patients, visits, financial, labs, providers).
+
+2- KPI Tracking: Define and monitor KPIs (e.g., total patients, revenue, denial rate, LOS).
+
+3- Interactive Dashboard: Create a user-friendly template with cards, slicers, and chart placeholders.
+
+4- Decision Support: Provide actionable insights (top diagnoses, revenue trends, provider productivity).
+
+5- Scalability: Template can be expanded to Power BI / Tableau in the future.
 
   
 ## Team Members
