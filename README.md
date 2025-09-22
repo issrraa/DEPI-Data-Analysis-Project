@@ -33,7 +33,7 @@ Designed for decision makers (hospital managers, finance team, medical directors
 ## Team Members
 - Radwa Abbas Haridy Kenawy 
 - Shoroq Muhammed Ibrahim Elsayed
-- Merna Hossam eldin Fathy Zaghloul Abdelaziz
+- Merna Hossam eldin Fathy Zaghloul
 - Israa Mohamed Shakal Farahat
 - Dalia Sherif Ashour Abdelhamid 
 
